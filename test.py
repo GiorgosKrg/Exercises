@@ -19,7 +19,6 @@ while True:
         days_over_10 = days_over_10 + 1
     loops +=1
     ans = input('Any more data to give? : ').lower()
-    print(ans)
     if ans == "no":
         break
 
