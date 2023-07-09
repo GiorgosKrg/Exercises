@@ -27,4 +27,3 @@ while True:
 print('Max number of loaded cargo in a day: ', max)
 print('Days with 10+ cargo loaded: ', days_over_10)
 print('Average loaded cargo per day: ', sum_in/loops)
-
