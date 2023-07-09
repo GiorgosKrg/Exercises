@@ -1,4 +1,4 @@
-## small exercises
+## Exercises
 
-Not actual projects. Just some small exercises.
+Not actual projects, just some exercises.
 
